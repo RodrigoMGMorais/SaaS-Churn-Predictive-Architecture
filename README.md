@@ -18,7 +18,7 @@ Projeto prático que une conceitos de Customer Success, análise de dados e apre
 ![DesempenhoGit](imagens/DesempenhoGit.jpg)
 
 ---
-```plaintext
+```
 
 ## 📂 Estrutura do Projeto
 
