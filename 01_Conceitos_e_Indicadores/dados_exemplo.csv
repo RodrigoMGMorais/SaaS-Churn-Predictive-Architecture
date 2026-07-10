@@ -1,0 +1,9 @@
+id_cliente,plano,valor_mensal,dias_uso_ultimo_mes,chamados_suporte,funcionalidades_usadas,nps,meses_de_contrato,churn
+1,Básico,49.90,8,4,2,3,6,1
+2,Intermediário,99.90,22,1,5,8,14,0
+3,Avançado,199.90,25,0,7,9,24,0
+4,Básico,49.90,5,3,1,4,4,1
+5,Intermediário,99.90,18,2,4,7,9,0
+6,Básico,49.90,6,5,1,2,3,3,1
+7,Avançado,199.90,28,1,8,10,36,0
+8,Intermediário,99.90,10,4,2,5,5,1
