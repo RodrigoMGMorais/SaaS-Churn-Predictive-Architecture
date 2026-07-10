@@ -28,3 +28,7 @@ SaaS-Churn-Predictive-Architecture/
 ├── 📁 imagens → Capturas de tela do projeto
 └── 📄 README.md → Documentação principal
 ```
+
+---
+
+💡 Projeto desenvolvido como estudo prático da Pós-graduação em **Big Data e Cloud Computing**.
