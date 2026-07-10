@@ -1,0 +1,22 @@
+# 📊 SaaS Churn Predictive Architecture
+
+**Arquitetura de Dados para Prevenção de Churn e Gestão de Contas em SaaS**
+
+Projeto prático que une conceitos de Customer Success, análise de dados e aprendizado de máquina para identificar clientes com risco de cancelamento — permitindo ações preventivas e crescimento sustentável.
+
+---
+
+## 📸 Capturas do Projeto
+
+### 📌 Resultados da execução no Google Colab
+![Imagem da execução no Colab](imagens/ImgemColab.jpg)
+
+### 📊 Análise visual: Comportamento e cancelamento
+![Gráfico de análise](imagens/ImgemGit.jpg)
+
+### 🤖 Desempenho do modelo preditivo
+![Resultados do modelo](imagens/DesempenhoGit.jpg)
+
+---
+
+## 📂 Estrutura do Repositório
