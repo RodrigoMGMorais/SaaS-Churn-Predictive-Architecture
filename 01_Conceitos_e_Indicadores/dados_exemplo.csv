@@ -4,6 +4,8 @@ id_cliente,plano,valor_mensal,dias_uso_ultimo_mes,chamados_suporte,funcionalidad
 3,Avançado,199.90,25,0,7,9,24,0
 4,Básico,49.90,5,3,1,4,4,1
 5,Intermediário,99.90,18,2,4,7,9,0
-6,Básico,49.90,6,5,1,2,3,3,1
+6,Básico,49.90,6,5,1,2,3,1
 7,Avançado,199.90,28,1,8,10,36,0
 8,Intermediário,99.90,10,4,2,5,5,1
+9,Básico,49.90,12,2,3,6,8,0
+10,Avançado,199.90,20,0,6,9,18,0
