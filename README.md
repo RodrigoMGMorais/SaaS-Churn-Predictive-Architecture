@@ -18,5 +18,8 @@ Projeto prático que une conceitos de Customer Success, análise de dados e apre
 ![DesempenhoGit](imagens/DesempenhoGit.jpg)
 
 ---
-
+```markdown
 ## 📂 Estrutura do Projeto
+
+SaaS-Churn-Predictive-Architecture/├── 📁 01_Conceitos_e_Indicadores → Conceitos e base de dados├── 📁 02_Analise_e_Modelagem → Código e modelo de previsão├── 📁 imagens → Capturas de tela do projeto└── 📄 README.md → Documentação principal
+```
